@@ -9,7 +9,7 @@
         </h4>
         <p class="u-align-justify u-text u-text-2">
         </p>
-        <h6 class="u-align-center u-text u-text-default u-text-3"> If something wrong, please contact&nbsp;<br>to king6209151@gmail.com
+        <h6 class="u-align-center u-text u-text-default u-text-3"> Please correct me if there is any grammatical mistakes.&nbsp;<br>to king6209151@gmail.com
         </h6>
       </div>
     </section>
